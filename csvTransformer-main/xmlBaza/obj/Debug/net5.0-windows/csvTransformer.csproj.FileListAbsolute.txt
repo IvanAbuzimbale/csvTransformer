@@ -1,0 +1,44 @@
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.csprojAssemblyReference.cache
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.FormFiltriranje.resources
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.FormPregled.resources
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.FormUnosPodataka.resources
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.Properties.Resources.resources
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.csproj.GenerateResource.cache
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.AssemblyInfoInputs.cache
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.AssemblyInfo.cs
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.csproj.CoreCompileInputs.cache
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\bin\Debug\net5.0-windows\csvTransformer.exe
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\bin\Debug\net5.0-windows\csvTransformer.deps.json
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\bin\Debug\net5.0-windows\csvTransformer.runtimeconfig.json
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\bin\Debug\net5.0-windows\csvTransformer.runtimeconfig.dev.json
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\bin\Debug\net5.0-windows\csvTransformer.dll
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\bin\Debug\net5.0-windows\ref\csvTransformer.dll
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\bin\Debug\net5.0-windows\csvTransformer.pdb
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.FormPocetna.resources
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.dll
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\ref\csvTransformer.dll
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.pdb
+C:\Users\Lovro Šverko\source\repos\csvTransformer\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.genruntimeconfig.cache
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\bin\Debug\net5.0-windows\csvTransformer.exe
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\bin\Debug\net5.0-windows\csvTransformer.deps.json
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\bin\Debug\net5.0-windows\csvTransformer.runtimeconfig.json
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\bin\Debug\net5.0-windows\csvTransformer.runtimeconfig.dev.json
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\bin\Debug\net5.0-windows\csvTransformer.dll
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\bin\Debug\net5.0-windows\ref\csvTransformer.dll
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\bin\Debug\net5.0-windows\csvTransformer.pdb
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.FormFiltriranje.resources
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.FormPocetna.resources
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.FormPregled.resources
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.FormUnosPodataka.resources
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.Properties.Resources.resources
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.csproj.GenerateResource.cache
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.AssemblyInfoInputs.cache
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.AssemblyInfo.cs
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.dll
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\ref\csvTransformer.dll
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.pdb
+C:\Users\ivanm\source\repos\csvTransformer-main\xmlBaza\obj\Debug\net5.0-windows\csvTransformer.genruntimeconfig.cache

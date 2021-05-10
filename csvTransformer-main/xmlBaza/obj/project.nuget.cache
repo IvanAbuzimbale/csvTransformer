@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gsRB0u16S2HX9SukbalGxmyDsrNEGRxLLXn/avfq2ZZc9wkqrTtqdyKQlltaclyPPUMacL1RWOY+5CrPEpGX/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivanm\\source\\repos\\csvTransformer-main\\xmlBaza\\csvTransformer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivanm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.4\\microsoft.netcore.app.host.win-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
